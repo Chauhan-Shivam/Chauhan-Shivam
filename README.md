@@ -31,7 +31,7 @@
 
 ### 🛠️ Tech Stack
 
-```yaml
+```txt
 Languages:    C#, Java, Python, JavaScript, HTML/CSS
 Frameworks:   Unity, Django, React, FastAPI
 Libraries:    OpenCV, Mediapipe
