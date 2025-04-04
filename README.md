@@ -34,7 +34,7 @@
 ```txt
 Languages:    C#, Java, Python, JavaScript, HTML/CSS
 Frameworks:   Unity, Django, React, FastAPI
-Libraries:    OpenCV, Mediapipe
+Libraries:    OpenCV, Mediapipe, Numpy
 Tools:        Git, VS Code, IntelliJ, PyCharm, Blender
 ```
 
