@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shivam Chauhan 👋</h1>
 <p align="center">
-  <strong>Game Developer | Python & Java Programmer | IoT Enthusiast</strong><br/>
+  <strong>Aspiring Game Developer | Java Programmer | IoT Enthusiast</strong><br/>
   <a href="mailto:cshivam828@gmail.com">cshivam828@gmail.com</a> • <a href="https://github.com/Chauhan-Shivam">GitHub: Chauhan-Shivam</a>
 </p>
 
